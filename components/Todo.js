@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Image from "next/image";
-import { AiOutlinePlus, AiOutlineDelete } from "react-icons/Ai";
+import { AiOutlinePlus, AiOutlineDelete } from "react-icons/ai";
 
 const Todo = () => {
   const [item, setItem] = useState("");
